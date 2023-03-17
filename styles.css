@@ -5,6 +5,7 @@ body {
     font-weight: bold;
     text-align: center;
     background-repeat: no-repeat;
+    height: 100vh;
 }
 
 div {
