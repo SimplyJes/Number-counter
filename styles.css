@@ -36,6 +36,10 @@ button {
     border-radius: 5px;
 }
 
+footer {
+    margin-top: 50px;
+}
+
 #increment-btn {
     background: rgb(24, 60, 168);
 }
