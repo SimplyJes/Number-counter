@@ -5,7 +5,6 @@ body {
     font-weight: bold;
     text-align: center;
     background-repeat: no-repeat;
-    background-position: center;
 }
 
 div {
@@ -39,7 +38,7 @@ button {
 }
 
 footer {
-    margin-bottom: -200px;
+    margin-top: 200px;
 }
 
 #increment-btn {
